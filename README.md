@@ -6,6 +6,7 @@ Parses your Blazor project to find javascript and css assets from razor componen
 1.  Install VSIX from VS extensions.
 2.  Open any Blazor project.
 3.  Go to View->Other Windows->Blazor Library Asset Helper
-4.  Choose JS and CSS files you want to include.  Order them using the Up and Down buttons.
-5.  Click Generate HTML button and copy/paste the contents to your html file.
-6.  Current selections and order will be saved in a file called assetPrefs.xml.
+4.  If multiple projects, select which project to choose assets for at the top of the window.
+5.  Choose JS and CSS files you want to include.  Order them using the Up and Down buttons.
+6.  Click Generate HTML button and copy/paste the contents to your html file.
+7.  Current selections and order will be saved in a file called assetPrefs.xml.
