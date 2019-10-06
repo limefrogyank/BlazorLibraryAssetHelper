@@ -10,3 +10,7 @@ Parses your Blazor project to find javascript and css assets from razor componen
 5.  Choose JS and CSS files you want to include.  Order them using the Up and Down buttons.
 6.  Click Generate HTML button and copy/paste the contents to your html file.
 7.  Current selections and order will be saved in a file called assetPrefs.xml.
+
+![Image 1 of Extension](https://github.com/limefrogyank/BlazorLibraryAssetHelper/blob/master/Screenshots/First.jpg)
+![Image 2 of Extension](https://github.com/limefrogyank/BlazorLibraryAssetHelper/blob/master/Screenshots/Second.jpg)
+![Image 3 of Extension](https://github.com/limefrogyank/BlazorLibraryAssetHelper/blob/master/Screenshots/Third.jpg)
