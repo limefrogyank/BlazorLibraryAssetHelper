@@ -2,8 +2,11 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="BlazorContentLoader.70e300ff-a813-4853-af47-58e83b13f3fc" Version="1.0" Language="en-US" Publisher="Lee McPherson" />
-        <DisplayName>BlazorContentLoader</DisplayName>
+        <DisplayName>Blazor Library Asset Helper</DisplayName>
         <Description xml:space="preserve">Parses your Blazor project to find javascript and css assets from razor component libraries.  Allows you to order the assets and enable them for generation of &lt;link /&gt; and &lt;script /&gt; tags to place </Description>
+        <MoreInfo>https://github.com/limefrogyank/BlazorLibraryAssetHelper</MoreInfo>
+        <License>LICENSE</License>
+        <Tags>Blazor, razor</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
